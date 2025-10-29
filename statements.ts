@@ -137,3 +137,10 @@ switch(browserName){ // "chrome"
 
 // When to use switch statement
 // 1. Simple comparision - 1 datatype
+
+
+
+// Use statement write a program to evaluate the grades of a student
+// marks = 95
+// markes > 90 - A 
+// > 80 - B, >70 - C, >60 -D, >=35 - E, <35 - Failed
